@@ -1,4 +1,4 @@
-package _009
+package _9
 
 //https://leetcode-cn.com/problems/palindrome-number/
 //回文数

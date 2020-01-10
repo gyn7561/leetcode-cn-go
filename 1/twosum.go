@@ -1,4 +1,4 @@
-package _001
+package _1
 
 //https://leetcode-cn.com/problems/two-sum/
 //1. 两数之和

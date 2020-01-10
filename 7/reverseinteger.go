@@ -1,4 +1,4 @@
-package _007
+package _7
 
 //https://leetcode-cn.com/problems/reverse-integer/
 //整数反转
